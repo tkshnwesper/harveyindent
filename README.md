@@ -65,7 +65,7 @@ This will use two tabs as an indent.
 
 #### Changing the default unindent symbol
 
-This can be done by giving an option `-u` followed by the symbol in quotes.
+The default unindent symbol is `#~`. This can be changed by giving an option `-u` followed by the symbol in quotes.
 
 For example,
 
